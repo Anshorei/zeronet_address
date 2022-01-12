@@ -1,3 +1,3 @@
 mod address;
 
-pub use address::Address;
+pub use address::{Address, AddressError};
